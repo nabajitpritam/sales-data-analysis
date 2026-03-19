@@ -1,7 +1,7 @@
 # 📊 Sales Data Analysis Project
 
 ## 📌 Overview
-This project focuses on analyzing a retail sales dataset to uncover key business insights related to revenue trends, product performance, regional distribution, and profitability.
+This project focuses on analyzing a retail sales dataset to uncover key business insights related to revenue trends, product performance, regional distribution, and profitability. This dataset is based on the sales made in "Amazon".
 
 The goal is to transform raw data into meaningful insights using Python and data analysis techniques.
 
@@ -44,10 +44,10 @@ sales-analysis/
 Revenue shows short-term fluctuations with no consistent long-term growth pattern, indicating variability in monthly performance.
 
 ### 🔹 Significant Revenue Drop
-A notable decline (~15.4%) is observed between January and February 2023, representing one of the sharpest short-term drops in the dataset.
+A notable decline (~15.4%) is observed between January and February of 2023, showing one of the sharpest short-term drops in the dataset.
 
 ### 🔹 Product Category Performance
-Revenue is evenly distributed across all product categories, with no single category dominating the market.
+Revenue is evenly distributed across all product categories, and no single category is dominating the market.
 
 ### 🔹 Regional Distribution
 Sales are relatively uniform across all regions, suggesting no strong geographic dependency.
@@ -88,7 +88,7 @@ Profit-to-revenue ratio (~5%) is consistent across all categories, suggesting a 
 
 ## 👤 Author
 **Nabajit Pritam**  
-- GitHub: https://github.com/NotYourSUPREME  
+- GitHub: https://github.com/nabajitpritam  
 - LinkedIn: www.linkedin.com/in/nabajit-pritam-026308334  
 
 ---
