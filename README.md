@@ -17,15 +17,19 @@ The goal is to transform raw data into meaningful insights using Python and data
 ---
 
 ## 📂 Project Structure
+```
 sales-analysis/
 │
 ├── data/
 │ └── sales.csv
+│
 ├── notebook/
 │ └── analysis.ipynb
+│
 ├── images/
-├── README.md
-f
+│
+└── README.md
+```
 ---
 
 ## 🔍 Key Analysis Performed
